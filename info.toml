@@ -268,7 +268,7 @@ in the Vec, using the * dereference operator. You can both access and write to t
 number that way.
 
 After you've completed both functions, decide for yourself which approach you like
-better. What do you think is the more commonly used pattern under Rust developers?
+better. What do you think is the more commonly used pattern among Rust developers?
 """
 
 # MOVE SEMANTICS
